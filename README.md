@@ -1,6 +1,8 @@
-# AI Reel Maker
+# ReelMaker: Autonomous AI Video Studio
 
-Create videos from an idea using AI. Enter a movie concept, and the app generates a script with scenes, then produces static images and narration for each scene. Finally, it assembles everything into a downloadable video.
+**From Concept to Complete Reel in Seconds.**
+
+ReelMaker is an end-to-end, AI-powered video generation studio. Enter a core concept, and the agentic pipeline autonomously generates a structured script, visual scene descriptions, high-fidelity static images, and synchronized voice narration. It then compiles these assets into a polished, downloadable 9:16 video tailored for platforms like TikTok, Instagram Reels, and YouTube Shorts.
 
 ## What It Does
 
